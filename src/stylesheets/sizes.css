@@ -1,0 +1,64 @@
+.h_screen{
+    height: 100vh;
+}
+.h_50{
+    height: 50%;
+}
+.h_75{
+    height: 75%;
+}
+.h_100{
+    height: 100%;
+}
+
+.w_screen{
+    width: 100vw;
+}
+.w_100{
+    width: 100%;
+}
+.w_50{
+    width: 50%;
+}
+.w_75{
+    width: 75%;
+}
+
+/* margins and paddings*/
+
+.m_1{
+    margin: 10px;
+}
+.m_2{
+    margin: 20px;
+}
+.m_3{
+    margin: 30px;
+}
+.mt_1{
+    margin-top: 10px;
+}
+.mt_2{
+    margin-top: 20px;
+}
+.mt_3{
+    margin-top: 30px;
+}
+.mb_1{
+    margin-bottom: 10px;
+}
+.mb_2{
+    margin-bottom: 20px;
+}
+.mb_3{
+    margin-bottom: 30px;
+}
+.ml_1{
+    margin-left: 10px;
+}
+.ml_2{
+    margin-left: 20px;
+}
+.ml_3{
+    margin-left: 30px;
+}
