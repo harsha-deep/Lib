@@ -1,12 +1,12 @@
 :root{
-    --colour-primary: #05f4fd;
+    --colour-primary: #69e7fc;
     --colour-secondar: #ffaf4b;
 }
 .bg_primary{
-    background-color: #c1fbff;
+    background-color: var(--colour-primary);
 }
 .bg_secondary{
-    background-color: #ffaf4b;
+    background-color: var(--colour-secondar);
 }
 .bg_white{
     background-color: aliceblue;
@@ -37,4 +37,10 @@
 }
 .text_xxxl{
     font-size: 28px;
+}
+.border_primary{
+    border-color: var(--colour-primary);
+}
+.border_secondary{
+    border-color: var(--colour-secondar);
 }

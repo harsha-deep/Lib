@@ -1,0 +1,15 @@
+input{
+    height: 40px;
+    width: 100%;
+    border: #565555 1px solid;
+    font-size: 14px;
+    padding-left: 10px;
+}
+input:focus{
+    outline: none;
+    border: #565555 solid 1px;
+    padding-left: 10px;
+}
+button{
+    height: 40px;
+}
