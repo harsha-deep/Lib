@@ -1,0 +1,40 @@
+:root{
+    --colour-primary: #05f4fd;
+    --colour-secondar: #ffaf4b;
+}
+.bg_primary{
+    background-color: #c1fbff;
+}
+.bg_secondary{
+    background-color: #ffaf4b;
+}
+.bg_white{
+    background-color: aliceblue;
+}
+.text_primary{
+    color: black;
+}
+.text_secondary{
+    color: #05f4fd;
+}
+.text_white{
+    color: aliceblue;
+}
+.text-sm{
+    font-size: 14px;
+}
+.text_md{
+    font-size: 16px;
+}
+.text_lg{
+    font-size: 18px;
+}
+.text_xl{
+    font-size: 20px;
+}
+.text_xxl{
+    font-size: 24px;
+}
+.text_xxxl{
+    font-size: 28px;
+}
