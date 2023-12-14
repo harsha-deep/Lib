@@ -42,11 +42,11 @@ function Register() {
   return (
     <div className="h-screen bg-slate-700 flex items-center justify-center">
       <div className="bg-slate-300 p-10 rounded-lg">
-        <h1 className="font-['Inter'] mb-4 text-4xl font-extrabold leading-none tracking-tight">
+        <h1 data-testid="loginButton_2" className="font-['Inter'] mb-4 text-4xl font-extrabold leading-none tracking-tight">
           Library
         </h1>
         {/* <hr /> */}
-        <Form layout="vertical" onFinish={onFinish}>
+        <Form data-testid="loginButton" layout="vertical" onFinish={onFinish}>
           <Form.Item
             label="Name"
             name="name"

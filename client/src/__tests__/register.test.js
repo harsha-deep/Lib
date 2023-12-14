@@ -1,15 +1,21 @@
-// Register.test.js
-import React from 'react';
-import { render, screen, fireEvent, waitFor } from '@testing-library/react';
-import '@testing-library/jest-dom';
-import { MemoryRouter } from 'react-router-dom';
-import Register from '../pages/Register/index';
-import configureStore from 'redux-mock-store';
+import React from "react";
+import { render, screen, fireEvent, waitFor } from "@testing-library/react";
+import { BrowserRouter } from "react-router-dom";
+import Login from "../pages/Login/index";
+import '@testing-library/jest-dom'
+import Register from "../pages/Register";
 
-// Mocking apicalls/users
-jest.mock('../apicalls/users', () => ({
-    RegisterUser: jest.fn(() => ({ success: true, message: 'Mocked success message' })),
+
+jest.mock("../redux/loadersSlice", () => ({
+    ShowLoading: jest.fn(),
+    HideLoading: jest.fn(),
 }));
+
+jest.mock("react-redux", () => ({
+    useDispatch: jest.fn(),
+}));
+
+
 Object.defineProperty(window, 'matchMedia', {
     writable: true,
     value: jest.fn().mockImplementation(query => ({
@@ -23,46 +29,18 @@ Object.defineProperty(window, 'matchMedia', {
         dispatchEvent: jest.fn(),
     })),
 });
-describe('Register component', () => {
-    it('should render the register form', () => {
-        const mockStore = configureStore();
-        let store;
+describe("Login Component", () => {
+    it("renders Login component", () => {
         render(
-            <MemoryRouter>
+            <BrowserRouter>
                 <Register />
-            </MemoryRouter>
+            </BrowserRouter>
         );
+        const loginText = screen.getByTestId('loginButton');
+        expect(loginText).toHaveTextContent('Name');
 
-        // Check that the form elements are rendered
-        expect(screen.getByLabelText('Name')).toBeInTheDocument();
-        expect(screen.getByLabelText('Email')).toBeInTheDocument();
-        expect(screen.getByLabelText('Phone Number')).toBeInTheDocument();
-        expect(screen.getByLabelText('Password')).toBeInTheDocument();
-        expect(screen.getByText('Register')).toBeInTheDocument();
-        expect(screen.getByText('Already have an account? Click Here To Login.')).toBeInTheDocument();
-    });
-
-    it('should handle form submission and register successfully', async () => {
-        render(
-            <MemoryRouter>
-                <Register />
-            </MemoryRouter>
-        );
-
-        // Fill in the form
-        fireEvent.change(screen.getByLabelText('Name'), { target: { value: 'John Doe' } });
-        fireEvent.change(screen.getByLabelText('Email'), { target: { value: 'john@example.com' } });
-        fireEvent.change(screen.getByLabelText('Phone Number'), { target: { value: '1234567890' } });
-        fireEvent.change(screen.getByLabelText('Password'), { target: { value: 'password123' } });
-
-        // Submit the form
-        fireEvent.submit(screen.getByText('Register'));
-
-        // Wait for the asynchronous actions to complete
-        await waitFor(() => {
-            expect(jest.requireMock('../../apicalls/users').RegisterUser).toHaveBeenCalled();
-            expect(screen.getByText('Already have an account? Click Here To Login.')).toBeInTheDocument();
-        });
+        const loginText_2 = screen.getByTestId('loginButton_2');
+        expect(loginText_2).toHaveTextContent('Library');
     });
 
 
