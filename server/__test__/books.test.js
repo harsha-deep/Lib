@@ -35,7 +35,6 @@ describe('Book API Tests', () => {
             .post('/api/books/add-book')
             .send(request);
 
-        console.log(request)
         expect(res).to.have.status(200);
         expect(res.body.success).to.be.true;
         expect(res.body.message).to.equal('Book added successfully');

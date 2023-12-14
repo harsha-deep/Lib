@@ -22,7 +22,7 @@ const reportsRoute = require("./routes/reportsRoute");
 app.use(cors({
   origin: '*',
   methods: '*',
-  allowedHeaders: ['Content-Type', 'Authorization']
+  allowedHeaders: '*'
 }));
 app.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');

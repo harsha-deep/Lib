@@ -50,3 +50,4 @@ pipeline {
 //sh 'ansible-playbook -i inventory-k8 playbook-k8.yml'
 //kubectl port-forward frontend-deployment-6f58d947b9-6f42d 3001:3000
 //kubectl port-forward backend-deployment-5c747c4c77-dk9h2  5005:5000
+// minikube start

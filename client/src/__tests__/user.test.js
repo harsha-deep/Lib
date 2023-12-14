@@ -27,8 +27,8 @@ Object.defineProperty(window, 'matchMedia', {
         matches: false,
         media: query,
         onchange: null,
-        addListener: jest.fn(), // Deprecated
-        removeListener: jest.fn(), // Deprecated
+        addListener: jest.fn(),
+        removeListener: jest.fn(),
         addEventListener: jest.fn(),
         removeEventListener: jest.fn(),
         dispatchEvent: jest.fn(),
@@ -41,8 +41,11 @@ describe("Login Component", () => {
                 <Login />
             </BrowserRouter>
         );
+        const loginText = screen.getByTestId('loginButton');
+        expect(loginText).toHaveTextContent('Login');
 
-        expect(screen.getByText("LIBRAY - LOGIN")).toBeInTheDocument();
+        const loginText_2 = screen.getByTestId('loginButton_2');
+        expect(loginText_2).toHaveTextContent('Login');
     });
 
 

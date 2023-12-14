@@ -43,7 +43,7 @@ function Login() {
   return (
     <div className="h-screen bg-slate-700 flex items-center justify-center">
       <div className="bg-slate-300 p-10 rounded-lg">
-        <h1 className="font-['Inter'] mb-4 text-4xl font-extrabold leading-none tracking-tight">
+        <h1 data-testid="loginButton" className="font-['Inter'] mb-4 text-4xl font-extrabold leading-none tracking-tight ">
           Login
         </h1>
 
@@ -73,7 +73,7 @@ function Login() {
             <input type="password" placeholder="Password" />
           </Form.Item>
 
-          <div className="text-center mt-2 flex flex-col gap-1">
+          <div data-testid="loginButton_2" className="text-center mt-2 flex flex-col gap-1">
             <Button title="Login" type="submit" />
             <Link to="/register" className="text-blue-600 text-sm font-bold">
               Dont have an account? Click Here To Register
@@ -81,7 +81,7 @@ function Login() {
           </div>
         </Form>
       </div>
-    </div>
+    </div >
   );
 }
 

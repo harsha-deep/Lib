@@ -567,3 +567,56 @@
 [2023-12-14 21:55:45.944] [info] get all books, success
 [2023-12-14 21:55:52.808] [info] get all books, success
 [2023-12-14 21:56:04.503] [info] Reports sent!!,success
+[2023-12-14 23:04:27.462] [info] User login success vivektangudu@gmail.com
+[2023-12-14 23:04:28.207] [info] get all books, success
+[2023-12-14 23:04:31.314] [info] get all books, success
+[2023-12-14 23:05:20.147] [info] get all books, success
+[2023-12-14 23:05:25.291] [info] get all books, success
+[2023-12-14 23:06:22.907] [info] get all books, success
+[2023-12-14 23:07:33.374] [info] get all books, success
+[2023-12-14 23:07:49.159] [info] get all books, success
+[2023-12-14 23:13:06.764] [info] get all books, success
+[2023-12-14 23:13:07.687] [info] get all books, success
+[2023-12-14 23:13:12.606] [info] Reports sent!!,success
+[2023-12-14 23:34:42.204] [info] get all books, success
+[2023-12-14 23:34:42.544] [info] get all books, success
+[2023-12-15 00:03:51.605] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:03:51.951] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:03:53.562] [error] User registration Failed viv@gmail.com
+[2023-12-15 00:03:53.923] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 00:03:54.270] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 00:03:54.753] [error] User login success vivek@gmail.com
+[2023-12-15 00:04:33.913] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:04:34.293] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:04:35.843] [error] User registration Failed viv@gmail.com
+[2023-12-15 00:04:36.237] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 00:04:36.580] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 00:04:37.054] [error] User login success vivek@gmail.com
+[2023-12-15 00:05:16.814] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:05:17.153] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:05:17.734] [error] User registration Failed viv@gmail.com
+[2023-12-15 00:05:18.067] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 00:05:18.394] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 00:05:18.836] [error] User login success vivek@gmail.com
+[2023-12-15 00:05:57.584] [error] User Registered with email vivek@gmail.com
+[2023-12-15 00:05:57.955] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:05:58.441] [error] User registration Failed viv@gmail.com
+[2023-12-15 00:05:58.803] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 00:05:59.160] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 00:05:59.609] [error] User login success vivek@gmail.com
+[2023-12-15 00:07:14.510] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:07:14.844] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 00:07:15.460] [error] User registration Failed viv@gmail.com
+[2023-12-15 00:07:15.809] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 00:07:16.128] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 00:07:16.553] [error] User login success vivek@gmail.com
+[2023-12-15 00:07:38.658] [error] User registration Failed vivek@gmail.com
+[2023-12-15 00:07:43.671] [error] User registration Failed vivek@gmail.com
+[2023-12-15 00:07:48.684] [error] User registration Failed viv@gmail.com
+[2023-12-15 00:08:21.344] [error] User registration Failed vivek@gmail.com
+[2023-12-15 00:08:26.378] [error] User registration Failed vivek@gmail.com
+[2023-12-15 00:08:31.381] [error] User registration Failed viv@gmail.com
+[2023-12-15 00:50:07.478] [info] User login success vivektangudu@gmail.com
+[2023-12-15 00:50:08.319] [info] get all books, success
+[2023-12-15 00:50:15.699] [info] get all books, success
+[2023-12-15 00:50:18.862] [info] Reports sent!!,success
