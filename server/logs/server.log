@@ -1,0 +1,569 @@
+[2023-12-12 14:24:34.964] [info] get all books, success
+[2023-12-12 14:24:43.981] [info] get all books, success
+[2023-12-12 15:37:45.558] [error] User login success rahul@gmail.com
+[2023-12-12 15:40:53.681] [error] User login success rahul@gmail.com
+[2023-12-12 15:41:26.703] [error] User login success rahul@gmail.com
+[2023-12-12 15:47:14.743] [error] User login success rahul@gmail.com
+[2023-12-12 15:48:37.941] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 15:48:49.489] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 15:48:49.581] [error] User login failed(nvalid password) vivek@gmail.com
+[2023-12-12 15:49:59.822] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 15:49:59.914] [error] User login failed(nvalid password) vivek@gmail.com
+[2023-12-12 15:52:27.469] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 15:52:27.562] [error] User login success vivek@gmail.com
+[2023-12-12 17:13:50.093] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 17:13:50.574] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-12 17:13:50.894] [error] User login failed(User does not exist)vivek@gmail.com
+[2023-12-12 17:20:08.097] [error] User registration Failed vivek@gmail.com
+[2023-12-12 17:20:08.461] [error] User registration Failed vivek@gmail.com
+[2023-12-12 17:20:09.727] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 17:20:10.073] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-12 17:20:10.388] [error] User login failed(User does not exist)vivek@gmail.com
+[2023-12-12 17:21:02.399] [error] User registration Failed vivek@gmail.com
+[2023-12-12 17:21:02.704] [error] User registration Failed vivek@gmail.com
+[2023-12-12 17:21:53.956] [error] User registration Failed vivek@gmail.com
+[2023-12-12 17:21:54.273] [error] User registration Failed vivek@gmail.com
+[2023-12-12 17:22:20.066] [error] User registration Failed vivek@gmail.com
+[2023-12-12 17:22:20.622] [error] User Registered with email vivek@gmail.com
+[2023-12-12 17:27:30.591] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:27:30.912] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:27:31.242] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:36:04.820] [error] User registration Failed vivek@gmail.com
+[2023-12-12 17:36:05.951] [error] User Registered with email vivek@gmail.com
+[2023-12-12 17:36:06.135] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:36:06.552] [error] User registration Failed viv@gmail.com
+[2023-12-12 17:36:06.864] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 17:36:07.498] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-12 17:36:07.941] [error] User login success vivek@gmail.com
+[2023-12-12 17:36:53.299] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:36:53.617] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:36:53.934] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:36:54.371] [error] User registration Failed viv@gmail.com
+[2023-12-12 17:36:54.696] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 17:36:55.009] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-12 17:36:55.432] [error] User login success vivek@gmail.com
+[2023-12-12 17:42:37.512] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:42:37.833] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:42:38.161] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:42:38.610] [error] User registration Failed viv@gmail.com
+[2023-12-12 17:42:38.944] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 17:42:39.269] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-12 17:42:39.699] [error] User login success vivek@gmail.com
+[2023-12-12 17:43:20.994] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:43:21.310] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:43:21.631] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:43:22.058] [error] User registration Failed viv@gmail.com
+[2023-12-12 17:43:22.381] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 17:43:22.695] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-12 17:43:23.125] [error] User login success vivek@gmail.com
+[2023-12-12 17:43:53.968] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:43:54.365] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:43:55.510] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:43:55.954] [error] User registration Failed viv@gmail.com
+[2023-12-12 17:43:56.264] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 17:43:56.732] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-12 17:43:57.150] [error] User login success vivek@gmail.com
+[2023-12-12 17:47:47.605] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:47:47.947] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:47:49.340] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-12 17:47:49.817] [error] User registration Failed viv@gmail.com
+[2023-12-12 17:47:50.659] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-12 17:47:51.332] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-12 17:47:51.786] [error] User login success vivek@gmail.com
+[2023-12-12 18:05:12.343] [info] User login success vivektangudu@gmail.com
+[2023-12-12 18:05:13.571] [info] get all books, success
+[2023-12-12 18:05:14.886] [info] get book by id, successMahaBharat
+[2023-12-12 18:05:20.363] [info] get book by id, successMahaBharat
+[2023-12-12 18:06:01.225] [info] get book by id, successMahaBharat
+[2023-12-12 18:06:03.868] [info] get all books, success
+[2023-12-12 18:06:05.094] [info] get book by id, successMahaBharat
+[2023-12-12 18:06:11.694] [info] get all books, success
+[2023-12-13 12:20:37.121] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:20:37.433] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:20:38.597] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:20:39.039] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:20:39.359] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:20:39.671] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:20:40.099] [error] User login success vivek@gmail.com
+[2023-12-13 12:21:51.485] [error] User registration Failed vivek@gmail.com
+[2023-12-13 12:21:52.064] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:21:52.244] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:21:52.678] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:21:53.021] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:21:53.370] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:21:53.826] [error] User login success vivek@gmail.com
+[2023-12-13 12:23:56.980] [error] User registration Failed vivek@gmail.com
+[2023-12-13 12:23:57.548] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:23:57.726] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:23:58.165] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:23:58.487] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:23:58.796] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:23:59.361] [error] User login success vivek@gmail.com
+[2023-12-13 12:25:10.661] [error] User registration Failed vivek@gmail.com
+[2023-12-13 12:25:12.192] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:25:12.410] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:25:12.905] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:25:13.251] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:25:13.582] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:25:14.022] [error] User login success vivek@gmail.com
+[2023-12-13 12:27:00.409] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:27:00.767] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:27:01.967] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:27:02.423] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:27:02.763] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:27:03.098] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:27:04.028] [error] User login success vivek@gmail.com
+[2023-12-13 12:27:23.672] [error] User registration Failed vivek@gmail.com
+[2023-12-13 12:27:24.220] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:27:24.398] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:27:24.840] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:27:25.178] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:27:25.512] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:27:25.933] [error] User login success vivek@gmail.com
+[2023-12-13 12:27:45.256] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:27:45.584] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:27:45.919] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:27:46.358] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:27:46.699] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:27:47.025] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:27:47.469] [error] User login success vivek@gmail.com
+[2023-12-13 12:28:18.559] [error] User registration Failed vivek@gmail.com
+[2023-12-13 12:28:19.117] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:28:19.293] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:28:19.735] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:28:20.072] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:28:20.404] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:28:20.840] [error] User login success vivek@gmail.com
+[2023-12-13 12:28:35.480] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:28:35.805] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:28:36.414] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:28:36.746] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:28:37.078] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:28:37.523] [error] User login success vivek@gmail.com
+[2023-12-13 12:28:51.908] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:28:53.194] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:28:53.621] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:28:53.956] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:28:54.284] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:28:55.155] [error] User login success vivek@gmail.com
+[2023-12-13 12:29:19.156] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:29:19.491] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:29:19.931] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:29:20.268] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:29:20.598] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:29:21.038] [error] User login success vivek@gmail.com
+[2023-12-13 12:30:36.901] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:30:37.226] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:30:37.825] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:30:38.170] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:30:38.501] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:30:38.938] [error] User login success vivek@gmail.com
+[2023-12-13 12:30:54.978] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:30:55.296] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:30:55.721] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:30:56.037] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:30:57.046] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:30:57.667] [error] User login success vivek@gmail.com
+[2023-12-13 12:33:07.668] [error] User Registered with email vivek@gmail.com
+[2023-12-13 12:33:08.131] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:33:08.964] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:33:09.712] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:33:10.045] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:33:10.531] [error] User login success vivek@gmail.com
+[2023-12-13 12:37:31.135] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:37:31.458] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:37:32.069] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:37:32.399] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:37:32.726] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:37:33.159] [error] User login success vivek@gmail.com
+[2023-12-13 12:50:49.551] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:50:49.873] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:50:52.186] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:50:52.516] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:50:52.831] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:50:53.251] [error] User login success vivek@gmail.com
+[2023-12-13 12:55:13.378] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:55:13.690] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 12:55:14.278] [error] User registration Failed viv@gmail.com
+[2023-12-13 12:55:14.625] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 12:55:14.950] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 12:55:15.490] [error] User login success vivek@gmail.com
+[2023-12-13 16:55:23.095] [info] User login success vivektangudu@gmail.com
+[2023-12-13 16:55:24.031] [info] get all books, success
+[2023-12-13 17:08:20.054] [error] User Registered with email vivek@gmail.com
+[2023-12-13 17:08:20.392] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 17:08:20.851] [error] User registration Failed viv@gmail.com
+[2023-12-13 17:08:21.190] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 17:08:21.570] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 17:08:21.987] [error] User login success vivek@gmail.com
+[2023-12-13 17:08:42.564] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 17:08:42.951] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-13 17:08:44.684] [error] User registration Failed viv@gmail.com
+[2023-12-13 17:08:45.088] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-13 17:08:45.432] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-13 17:08:45.933] [error] User login success vivek@gmail.com
+[2023-12-13 17:40:58.300] [info] User login success vivektangudu@gmail.com
+[2023-12-13 17:40:59.450] [info] get all books, success
+[2023-12-13 17:41:03.297] [info] get all books, success
+[2023-12-13 17:42:00.109] [info] Book added successfully undefined
+[2023-12-13 17:42:00.513] [info] get all books, success
+[2023-12-13 17:49:12.449] [error] get all books, failed
+[2023-12-14 08:32:05.299] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-14 16:35:15.679] [info] User login failed(User does not exist)vivek@gmail.com
+[2023-12-14 16:35:19.626] [info] User login success vivektangudu@gmail.com
+[2023-12-14 16:35:20.718] [info] get all books, success
+[2023-12-14 16:35:27.181] [info] get all books, success
+[2023-12-14 16:36:32.065] [info] get all books, success
+[2023-12-14 16:36:39.023] [info] Reports sent!!,success
+[2023-12-14 16:37:58.718] [info] Get all issues, success
+[2023-12-14 16:38:05.160] [info] Get all issues, success
+[2023-12-14 16:38:11.696] [info] Get all issues, success
+[2023-12-14 16:38:16.996] [info] Get all issues, success
+[2023-12-14 16:38:46.657] [info] Reports sent!!,success
+[2023-12-14 16:38:49.225] [info] Reports sent!!,success
+[2023-12-14 16:39:07.809] [info] get all books, success
+[2023-12-14 16:39:11.302] [info] get all books, success
+[2023-12-14 16:39:12.290] [info] get book by id, successMahaBharat
+[2023-12-14 16:39:16.019] [info] get all books, success
+[2023-12-14 16:39:16.586] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 16:39:26.102] [info] get all books, success
+[2023-12-14 16:39:38.522] [info] get all books, success
+[2023-12-14 16:39:43.542] [info] Book delete success
+[2023-12-14 16:39:43.732] [info] get all books, success
+[2023-12-14 16:39:45.685] [info] Get all issues, success
+[2023-12-14 16:41:00.632] [info] Get id using email rahul@gmail.com
+[2023-12-14 16:41:16.021] [info] Get id using email rahul@gmail.com
+[2023-12-14 16:41:16.826] [info] Get id using email rahul@gmail.com
+[2023-12-14 16:41:17.273] [info] Get id using email rahul@gmail.com
+[2023-12-14 16:41:17.470] [info] Get id using email rahul@gmail.com
+[2023-12-14 16:42:04.996] [info] Book issued successfully 65799f8ff99046b956ab5001
+[2023-12-14 16:42:05.173] [info] get all books, success
+[2023-12-14 16:42:10.525] [info] Reports sent!!,success
+[2023-12-14 16:42:16.712] [info] Get all issues, success
+[2023-12-14 16:42:40.707] [info] Get all issues, success
+[2023-12-14 16:42:49.319] [info] Get all issues, success
+[2023-12-14 16:42:56.612] [info] get all books, success
+[2023-12-14 16:43:08.629] [info] Reports sent!!,success
+[2023-12-14 16:43:14.039] [info] Get all issues, success
+[2023-12-14 16:43:18.640] [info] Get all issues, success
+[2023-12-14 16:43:29.326] [info] get all books, success
+[2023-12-14 16:43:36.097] [info] Get all issues, success
+[2023-12-14 16:43:44.594] [info] Get all issues, success
+[2023-12-14 16:43:50.936] [info] Get all issues, success
+[2023-12-14 16:45:16.984] [info] Get all issues, success
+[2023-12-14 16:45:44.005] [info] get all books, success
+[2023-12-14 16:47:51.014] [info] get all books, success
+[2023-12-14 16:51:37.531] [info] get all books, success
+[2023-12-14 16:52:03.142] [info] get all books, success
+[2023-12-14 16:55:22.913] [info] get all books, success
+[2023-12-14 16:55:37.483] [info] User login success vivektangudu@gmail.com
+[2023-12-14 16:55:39.411] [info] get all books, success
+[2023-12-14 16:55:41.848] [info] get all books, success
+[2023-12-14 16:56:27.351] [info] get all books, success
+[2023-12-14 16:56:32.013] [info] Get all issues, success
+[2023-12-14 16:59:45.229] [info] get all books, success
+[2023-12-14 17:01:25.257] [info] Get all issues, success
+[2023-12-14 17:01:32.332] [info] Get all issues, success
+[2023-12-14 17:01:55.429] [info] get all books, success
+[2023-12-14 17:01:59.387] [info] Get all issues, success
+[2023-12-14 17:02:02.918] [info] Get all issues, success
+[2023-12-14 17:02:15.147] [info] Reports sent!!,success
+[2023-12-14 17:02:24.464] [info] Get all issues, success
+[2023-12-14 17:02:28.135] [info] Get all issues, success
+[2023-12-14 17:04:10.767] [info] Get all issues, success
+[2023-12-14 17:05:02.186] [info] Get all issues, success
+[2023-12-14 17:05:48.397] [info] get all books, success
+[2023-12-14 17:06:14.814] [info] Get all issues, success
+[2023-12-14 17:07:46.824] [info] get all books, success
+[2023-12-14 17:11:15.268] [info] Get all issues, success
+[2023-12-14 17:17:23.789] [info] Get all issues, success
+[2023-12-14 17:18:20.608] [info] get all books, success
+[2023-12-14 17:18:35.902] [info] get all books, success
+[2023-12-14 17:18:39.071] [info] Get all issues, success
+[2023-12-14 17:21:15.497] [info] get all books, success
+[2023-12-14 17:21:18.616] [info] Get all issues, success
+[2023-12-14 17:21:23.639] [info] Get all issues, success
+[2023-12-14 17:21:35.446] [info] User login success sagar@gmail.com
+[2023-12-14 17:21:35.999] [info] get all books, success
+[2023-12-14 17:21:38.551] [info] get all books, success
+[2023-12-14 17:21:42.030] [info] Get all issues, success
+[2023-12-14 17:26:07.967] [info] get all books, success
+[2023-12-14 17:26:11.112] [info] Get all issues, success
+[2023-12-14 17:27:24.181] [info] get all books, success
+[2023-12-14 17:27:26.249] [info] Get all issues, success
+[2023-12-14 17:28:10.912] [info] get all books, success
+[2023-12-14 17:28:32.239] [info] Get all issues, success
+[2023-12-14 17:28:42.547] [info] Get id using email john.doe@example.com
+[2023-12-14 17:28:44.465] [info] Get id using email john.doe@example.com
+[2023-12-14 17:28:45.834] [info] Book issued successfully 65799f8ff99046b956ab5001
+[2023-12-14 17:28:46.044] [info] get all books, success
+[2023-12-14 17:31:14.461] [info] Get all issues, success
+[2023-12-14 17:31:32.032] [info] User login success vivektangudu@gmail.com
+[2023-12-14 17:31:32.727] [info] get all books, success
+[2023-12-14 17:31:35.468] [info] get all books, success
+[2023-12-14 17:31:38.384] [info] Get all issues, success
+[2023-12-14 17:31:42.180] [info] Get all issues, success
+[2023-12-14 17:31:46.933] [info] Get all issues, success
+[2023-12-14 17:31:51.589] [info] Reports sent!!,success
+[2023-12-14 17:32:01.918] [info] Get id using email john.doe@example.com
+[2023-12-14 17:32:03.669] [info] Book issued successfully 65799f8ff99046b956ab5001
+[2023-12-14 17:32:03.876] [info] get all books, success
+[2023-12-14 17:32:06.343] [info] Get all issues, success
+[2023-12-14 17:32:50.780] [info] Get all issues, success
+[2023-12-14 17:36:37.402] [info] Book added successfully undefined
+[2023-12-14 17:36:37.685] [info] get all books, success
+[2023-12-14 17:36:39.972] [info] Get all issues, success
+[2023-12-14 17:36:48.231] [info] Get id using email john.doe@example.com
+[2023-12-14 17:36:49.283] [info] Book issued successfully 657aefcd401f27c1c4291a20
+[2023-12-14 17:36:49.566] [info] get all books, success
+[2023-12-14 17:36:52.211] [info] Get all issues, success
+[2023-12-14 17:37:09.600] [info] Get all issues, success
+[2023-12-14 17:37:16.495] [info] Book delete success
+[2023-12-14 17:37:16.775] [info] get all books, success
+[2023-12-14 17:37:19.891] [info] Get all issues, success
+[2023-12-14 17:37:29.785] [info] Get all issues, success
+[2023-12-14 17:39:35.019] [info] Get all issues, success
+[2023-12-14 17:40:01.623] [info] Get id using email john.doe@example.com
+[2023-12-14 17:40:03.148] [info] Book issued successfully 65799f8ff99046b956ab5001
+[2023-12-14 17:40:03.359] [info] get all books, success
+[2023-12-14 17:40:05.498] [info] Get all issues, success
+[2023-12-14 17:40:10.842] [info] Get all issues, success
+[2023-12-14 17:40:17.880] [info] Get all issues, success
+[2023-12-14 17:40:21.020] [info] Get all issues, success
+[2023-12-14 17:40:30.288] [info] Get all issues, success
+[2023-12-14 17:40:35.069] [info] Get all issues, success
+[2023-12-14 17:41:04.389] [info] Get all issues, success
+[2023-12-14 17:41:09.739] [info] Get all issues, success
+[2023-12-14 17:41:12.834] [info] Get all issues, success
+[2023-12-14 18:07:57.994] [info] User login success vivektangudu@gmail.com
+[2023-12-14 18:08:07.421] [info] User login success vivektangudu@gmail.com
+[2023-12-14 18:14:23.891] [info] User login success vivektangudu@gmail.com
+[2023-12-14 18:14:25.017] [info] get all books, success
+[2023-12-14 18:14:46.591] [info] get all books, success
+[2023-12-14 18:14:48.321] [info] Get all issues, success
+[2023-12-14 18:14:54.817] [info] Get all issues, success
+[2023-12-14 18:14:59.640] [info] Get all issues, success
+[2023-12-14 18:15:03.626] [info] Get all issues, success
+[2023-12-14 18:15:59.553] [info] User login success vivektangudu@gmail.com
+[2023-12-14 18:16:00.088] [info] get all books, success
+[2023-12-14 18:23:09.356] [info] Get all issues, success
+[2023-12-14 18:41:22.891] [info] Get all issues, success
+[2023-12-14 18:41:25.366] [info] Reports sent!!,success
+[2023-12-14 18:41:30.884] [info] Get all issues, success
+[2023-12-14 18:41:38.862] [info] User login success sagar@gmail.com
+[2023-12-14 18:41:39.372] [info] get all books, success
+[2023-12-14 18:42:50.348] [info] get all books, success
+[2023-12-14 18:42:53.563] [info] Get all issues, success
+[2023-12-14 18:42:55.527] [info] Get all issues, success
+[2023-12-14 18:43:06.329] [info] User login success vivektangudu@gmail.com
+[2023-12-14 18:43:06.707] [info] get all books, success
+[2023-12-14 18:43:13.005] [info] Get all issues, success
+[2023-12-14 18:45:35.437] [info] Reports sent!!,success
+[2023-12-14 18:45:36.977] [info] Get all issues, success
+[2023-12-14 18:45:40.520] [info] Get all issues, success
+[2023-12-14 19:10:09.040] [info] User login success vivektangudu@gmail.com
+[2023-12-14 19:10:10.224] [info] get all books, success
+[2023-12-14 19:10:13.978] [info] Get all issues, success
+[2023-12-14 19:10:17.799] [info] Get all issues, success
+[2023-12-14 19:11:45.276] [info] Get all issues, success
+[2023-12-14 19:12:16.866] [info] get all books, success
+[2023-12-14 19:12:18.356] [info] Get all issues, success
+[2023-12-14 19:12:35.016] [info] Get all issues, success
+[2023-12-14 19:13:03.129] [info] User login success rahul@gmail.com
+[2023-12-14 19:13:03.668] [info] get all books, success
+[2023-12-14 19:13:06.156] [info] Get all issues, success
+[2023-12-14 19:13:22.642] [info] Get all issues, success
+[2023-12-14 19:13:27.789] [info] Get all issues, success
+[2023-12-14 19:14:35.846] [info] Get all issues, success
+[2023-12-14 19:15:12.900] [info] Get all issues, success
+[2023-12-14 19:15:33.531] [info] User login success vivektangudu@gmail.com
+[2023-12-14 19:15:34.274] [info] get all books, success
+[2023-12-14 19:15:38.668] [info] Get all issues, success
+[2023-12-14 19:17:06.613] [info] get all books, success
+[2023-12-14 19:17:10.353] [info] get all books, success
+[2023-12-14 19:22:25.082] [info] Get all issues, success
+[2023-12-14 19:29:34.211] [info] get all books, success
+[2023-12-14 19:29:38.551] [info] Get all issues, success
+[2023-12-14 19:30:28.114] [info] User login success vivektangudu@gmail.com
+[2023-12-14 19:30:28.970] [info] get all books, success
+[2023-12-14 19:30:43.048] [info] Get all issues, success
+[2023-12-14 19:30:56.350] [info] Get all issues, success
+[2023-12-14 19:31:17.561] [info] Get all issues, success
+[2023-12-14 19:35:36.671] [info] Get all issues, success
+[2023-12-14 19:37:12.971] [info] Get all issues, success
+[2023-12-14 19:38:58.514] [info] Get all issues, success
+[2023-12-14 19:39:17.141] [info] Get all issues, success
+[2023-12-14 19:39:32.250] [info] Get all issues, success
+[2023-12-14 19:39:40.569] [info] Get all issues, success
+[2023-12-14 19:39:55.577] [info] Get all issues, success
+[2023-12-14 19:40:02.120] [info] get all books, success
+[2023-12-14 19:40:03.223] [info] Get all issues, success
+[2023-12-14 19:40:10.177] [info] get all books, success
+[2023-12-14 19:40:11.416] [info] Get all issues, success
+[2023-12-14 19:40:29.416] [info] Get all issues, success
+[2023-12-14 19:40:34.047] [info] Get all issues, success
+[2023-12-14 19:40:58.660] [info] Get all issues, success
+[2023-12-14 19:41:23.447] [info] Get all issues, success
+[2023-12-14 19:43:06.046] [info] Get all issues, success
+[2023-12-14 19:43:22.499] [info] Get all issues, success
+[2023-12-14 19:43:58.300] [info] Get all issues, success
+[2023-12-14 19:44:09.095] [info] Get all issues, success
+[2023-12-14 19:44:38.576] [info] Get all issues, success
+[2023-12-14 19:45:36.790] [info] Get all issues, success
+[2023-12-14 19:45:39.460] [info] Get all issues, success
+[2023-12-14 19:45:41.589] [info] Get all issues, success
+[2023-12-14 19:45:43.235] [info] Get all issues, success
+[2023-12-14 19:47:13.305] [info] get all books, success
+[2023-12-14 19:47:14.361] [info] Get all issues, success
+[2023-12-14 19:47:19.140] [info] Get all issues, success
+[2023-12-14 19:47:32.552] [info] Get all issues, success
+[2023-12-14 19:47:35.651] [info] Get all issues, success
+[2023-12-14 19:49:11.451] [info] Get all issues, success
+[2023-12-14 19:49:26.007] [info] Get all issues, success
+[2023-12-14 19:50:32.030] [info] Get all issues, success
+[2023-12-14 19:50:32.208] [info] Get all issues, success
+[2023-12-14 19:50:40.686] [info] Get all issues, success
+[2023-12-14 19:50:40.853] [info] Get all issues, success
+[2023-12-14 19:51:30.355] [info] Get all issues, success
+[2023-12-14 19:51:42.590] [info] get all books, success
+[2023-12-14 19:51:45.513] [info] Get all issues, success
+[2023-12-14 19:51:49.799] [info] Get all issues, success
+[2023-12-14 19:51:53.417] [info] Get all issues, success
+[2023-12-14 20:26:13.447] [info] User login success sagar@gmail.com
+[2023-12-14 20:27:06.892] [info] get all books, success
+[2023-12-14 20:27:08.292] [info] get all books, success
+[2023-12-14 20:27:14.967] [info] get all books, success
+[2023-12-14 20:27:37.617] [info] User login success vivektangudu@gmail.com
+[2023-12-14 20:27:37.827] [info] get all books, success
+[2023-12-14 20:30:40.584] [info] get all books, success
+[2023-12-14 20:38:06.092] [info] User login success vivektangudu@gmail.com
+[2023-12-14 20:38:06.541] [info] get all books, success
+[2023-12-14 20:38:34.729] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 20:40:56.386] [info] get all books, success
+[2023-12-14 20:42:18.602] [info] get all books, success
+[2023-12-14 20:43:20.988] [info] Get all issues, success
+[2023-12-14 20:45:05.166] [info] get all books, success
+[2023-12-14 20:45:46.551] [info] Get all issues, success
+[2023-12-14 20:46:19.202] [info] Get all issues, success
+[2023-12-14 20:48:32.732] [info] Get id using email sagar@gmail.com
+[2023-12-14 20:49:11.548] [info] Get id using email rahul@gmail.com
+[2023-12-14 20:52:01.419] [info] Reports sent!!,success
+[2023-12-14 20:52:03.824] [info] get all books, success
+[2023-12-14 20:52:06.935] [info] get all books, success
+[2023-12-14 20:52:08.303] [info] Reports sent!!,success
+[2023-12-14 20:53:02.411] [info] Get all issues, success
+[2023-12-14 20:53:36.115] [info] Get all issues, success
+[2023-12-14 20:55:01.654] [info] Get all issues, success
+[2023-12-14 20:55:07.850] [info] Get all issues, success
+[2023-12-14 20:55:15.041] [info] Get all issues, success
+[2023-12-14 20:55:24.543] [info] Get all issues, success
+[2023-12-14 20:56:28.841] [info] Get all issues, success
+[2023-12-14 20:57:18.968] [info] Get all issues, success
+[2023-12-14 20:57:26.904] [info] Get all issues, success
+[2023-12-14 20:57:33.972] [info] Get all issues, success
+[2023-12-14 20:57:39.161] [info] Get all issues, success
+[2023-12-14 20:58:01.050] [info] Get all issues, success
+[2023-12-14 20:58:24.393] [info] Get all issues, success
+[2023-12-14 20:58:40.849] [info] Get all issues, success
+[2023-12-14 20:58:50.598] [info] Get all issues, success
+[2023-12-14 20:59:02.400] [info] Get all issues, success
+[2023-12-14 20:59:56.961] [info] Get all issues, success
+[2023-12-14 21:02:03.347] [info] get all books, success
+[2023-12-14 21:02:12.236] [info] Get all issues, success
+[2023-12-14 21:02:16.550] [info] Get all issues, success
+[2023-12-14 21:02:18.938] [info] Get all issues, success
+[2023-12-14 21:02:21.675] [info] Get all issues, success
+[2023-12-14 21:02:27.031] [info] get all books, success
+[2023-12-14 21:02:28.301] [info] Get all issues, success
+[2023-12-14 21:02:58.123] [info] get all books, success
+[2023-12-14 21:03:06.737] [info] get all books, success
+[2023-12-14 21:03:14.099] [info] get all books, success
+[2023-12-14 21:03:34.792] [info] get all books, success
+[2023-12-14 21:03:36.588] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:03:37.682] [info] get all books, success
+[2023-12-14 21:04:31.713] [info] get all books, success
+[2023-12-14 21:04:50.716] [info] get all books, success
+[2023-12-14 21:04:54.599] [info] get all books, success
+[2023-12-14 21:05:55.565] [info] get all books, success
+[2023-12-14 21:07:00.624] [info] get all books, success
+[2023-12-14 21:07:01.191] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:07:09.573] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:07:19.668] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:07:27.885] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:07:38.138] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:09:12.684] [info] get all books, success
+[2023-12-14 21:09:17.882] [info] get all books, success
+[2023-12-14 21:09:24.692] [info] get all books, success
+[2023-12-14 21:09:27.632] [info] get all books, success
+[2023-12-14 21:09:29.778] [info] get all books, success
+[2023-12-14 21:11:57.095] [info] get all books, success
+[2023-12-14 21:12:01.444] [info] Reports sent!!,success
+[2023-12-14 21:14:01.140] [info] Get all issues, success
+[2023-12-14 21:14:16.594] [info] Get all issues, success
+[2023-12-14 21:14:26.337] [info] Book updated successfully undefined
+[2023-12-14 21:14:27.125] [info] get all books, success
+[2023-12-14 21:14:28.265] [info] Book updated successfully undefined
+[2023-12-14 21:14:29.085] [info] get all books, success
+[2023-12-14 21:15:52.791] [info] Get all issues, success
+[2023-12-14 21:15:59.547] [info] Get all issues, success
+[2023-12-14 21:16:05.552] [info] Get all issues, success
+[2023-12-14 21:17:22.805] [info] get all books, success
+[2023-12-14 21:17:25.146] [info] get book by id, successno
+[2023-12-14 21:17:28.049] [info] get all books, success
+[2023-12-14 21:17:30.085] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:17:32.561] [info] get all books, success
+[2023-12-14 21:18:30.124] [info] get all books, success
+[2023-12-14 21:18:33.907] [info] Reports sent!!,success
+[2023-12-14 21:18:46.159] [info] Get all issues, success
+[2023-12-14 21:22:38.841] [info] Get all issues, success
+[2023-12-14 21:22:40.687] [info] Get all issues, success
+[2023-12-14 21:22:46.694] [info] get all books, success
+[2023-12-14 21:23:44.995] [info] get all books, success
+[2023-12-14 21:24:18.142] [info] get all books, success
+[2023-12-14 21:24:20.756] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:24:23.461] [info] get all books, success
+[2023-12-14 21:26:10.076] [info] get all books, success
+[2023-12-14 21:26:14.096] [info] Reports sent!!,success
+[2023-12-14 21:26:42.975] [info] Reports sent!!,success
+[2023-12-14 21:26:48.209] [info] Reports sent!!,success
+[2023-12-14 21:27:19.881] [info] get all books, success
+[2023-12-14 21:27:58.714] [info] get all books, success
+[2023-12-14 21:28:17.148] [info] get all books, success
+[2023-12-14 21:28:17.211] [info] get all books, success
+[2023-12-14 21:28:20.813] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:28:28.994] [info] get all books, success
+[2023-12-14 21:28:32.492] [info] get all books, success
+[2023-12-14 21:31:48.848] [info] get all books, success
+[2023-12-14 21:31:49.992] [info] get book by id, successThe Magic of the Lost Temple
+[2023-12-14 21:31:52.517] [info] get all books, success
+[2023-12-14 21:32:10.698] [info] get all books, success
+[2023-12-14 21:33:38.477] [info] Get all issues, success
+[2023-12-14 21:34:21.823] [info] Get all issues, success
+[2023-12-14 21:34:37.505] [info] Reports sent!!,success
+[2023-12-14 21:34:51.617] [info] Reports sent!!,success
+[2023-12-14 21:35:01.916] [info] Reports sent!!,success
+[2023-12-14 21:35:08.360] [info] Reports sent!!,success
+[2023-12-14 21:35:14.978] [info] Reports sent!!,success
+[2023-12-14 21:35:19.243] [info] Reports sent!!,success
+[2023-12-14 21:35:34.695] [info] get all books, success
+[2023-12-14 21:36:49.724] [info] Get all issues, success
+[2023-12-14 21:37:40.606] [info] get all books, success
+[2023-12-14 21:37:44.525] [info] get all books, success
+[2023-12-14 21:41:23.082] [info] Book added successfully undefined
+[2023-12-14 21:41:23.232] [info] get all books, success
+[2023-12-14 21:41:28.805] [info] get all books, success
+[2023-12-14 21:41:42.725] [info] Book updated successfully undefined
+[2023-12-14 21:41:42.846] [info] get all books, success
+[2023-12-14 21:43:44.455] [info] get all books, success
+[2023-12-14 21:50:40.049] [info] User login success vivektangudu@gmail.com
+[2023-12-14 21:50:40.702] [info] get all books, success
+[2023-12-14 21:50:46.907] [info] get all books, success
+[2023-12-14 21:51:39.834] [info] Book delete success
+[2023-12-14 21:51:40.025] [info] get all books, success
+[2023-12-14 21:51:48.881] [info] Reports sent!!,success
+[2023-12-14 21:52:59.608] [info] get all books, success
+[2023-12-14 21:53:04.417] [info] Reports sent!!,success
+[2023-12-14 21:55:45.041] [info] User login success vivektangudu@gmail.com
+[2023-12-14 21:55:45.944] [info] get all books, success
+[2023-12-14 21:55:52.808] [info] get all books, success
+[2023-12-14 21:56:04.503] [info] Reports sent!!,success

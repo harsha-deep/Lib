@@ -1,0 +1,52 @@
+pipeline {
+    agent any
+    environment {
+        mongo_url = "mongodb+srv://vivektangudu:viv@cluster0.czt49fi.mongodb.net/"
+        JWT_SECRET = "SECRETLEL"
+    }
+    stages {
+        stage('Stage 1: Git Clone') {
+            steps {
+                git branch: 'main',
+                url: 'https://github.com/harsha-deep/Lib'
+            }
+        }
+        stage('client build') {
+            steps {
+                dir('client'){
+                sh "npm install"
+                sh 'docker build -t frontend-image .'
+            }
+            }
+        }
+        stage("Server build") {
+            steps {
+                dir('server'){
+                sh "npm install"
+                sh 'docker build -t backend-image .'
+            }}
+        }
+        stage('Push to Docker Hub') {
+            steps {
+                script {
+                        sh "docker login --username bean6792 --password Vivek@1383"
+                        sh 'docker tag frontend-image bean6792/frontend-image:latest'
+                        sh 'docker push bean6792/frontend-image:latest'
+                        sh "docker tag backend-image bean6792/backend-image:latest"
+                        sh "docker push bean6792/backend-image:latest"
+                    
+                }
+            }
+        }
+        stage('Ansible Deployment') {
+            steps {
+                script { 
+                    sh 'ansible-playbook -i inventory playbook.yml'
+                }
+            }
+        }
+    }
+}
+//sh 'ansible-playbook -i inventory-k8 playbook-k8.yml'
+//kubectl port-forward frontend-deployment-6f58d947b9-6f42d 3001:3000
+//kubectl port-forward backend-deployment-5c747c4c77-dk9h2  5005:5000

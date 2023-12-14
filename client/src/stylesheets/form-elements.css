@@ -1,0 +1,52 @@
+input {
+  height: 40px;
+  width: 100%;
+  border: gray 1px solid;
+  padding-left: 20px;
+  margin-right: 200px;
+}
+
+input:focus {
+  outline: none;
+  border: rgb(60, 60, 60) solid 1px;
+}
+
+.custom-tab {
+  padding: 8px 16px;
+  border-radius: 8px;
+  background-color: rgb(51 65 85);
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: rgb(30 41 59);
+  }
+}
+
+input,
+textarea,
+select {
+  min-height: 40px;
+  width: 100%;
+  border: gray 1px solid;
+  padding-left: 20px;
+  margin-right: 200px;
+  font-size: 14px;
+}
+
+textarea {
+  padding-top: 15px;
+  min-height: 60px;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  border: rgb(60, 60, 60) solid 1px;
+}
+
+i {
+  font-size: 18px;
+}

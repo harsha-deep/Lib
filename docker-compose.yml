@@ -1,0 +1,35 @@
+version: '3'
+services:
+  container_front:
+    image: frontend-image
+    ports:
+      - "3000:3000"
+    networks:
+      - mynetwork
+    depends_on:
+      - container_back
+    environment:
+      - REACT_APP_BASE_URL=http://localhost:5002
+
+  container_back:
+    image: backend-image
+    ports:
+      - "5002:5002"
+    networks:
+      - mynetwork
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      - MONGO_URL=mongodb://mongodb_db:27017/mydatabase
+      - jwt_secret=secret
+      - PORT=5002
+
+  mongodb_db:
+    networks:
+      - mynetwork
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+
+networks:
+  mynetwork:

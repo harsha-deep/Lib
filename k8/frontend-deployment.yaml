@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: Deployment
+metadata:
+  name: frontend-deployment
+  namespace: mern-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: frontend
+  template:
+    metadata:
+      labels:
+        app: frontend
+    spec:
+      containers:
+        - name: frontend
+          image: bean6792/frontend-image:latest
+          ports:
+            - containerPort: 3000
+          env: 
+            - name: REACT_APP_BASE_URL
+              value: "http://localhost:5005"
