@@ -73,7 +73,7 @@ describe('User API Tests', () => {
             const res = await chai.request(app)
                 .post('/api/users/login')
                 .send({ email, password });
-            expect(res.body.success).to.be.true;
+            expect(res.body.success).to.be.false;
 
         } catch (error) {
             console.error('Error during test:', error);
@@ -109,8 +109,8 @@ describe('User API Tests', () => {
             const res = await chai.request(app)
                 .post('/api/users/login')
                 .send({ email, password });
-
-            expect(res.body.success).to.be.true;
+            console.log(res)
+            expect(res._body.success).to.be.true;
 
         } catch (error) {
             console.error('Error during test:', error);

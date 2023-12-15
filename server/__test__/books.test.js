@@ -13,16 +13,6 @@ const expect = chai.expect;
 const authMiddleware = require('../middlewares/authMiddleware.js');
 const testToken = jwt.sign({ userId: 'yourUserId' }, process.env.jwt_secret);
 
-const title = "Test Book"
-const description = "This is a test book description."
-const category = "Test Category"
-const image = "test_image_url.jpg"
-const author = "Test Author"
-const publisher = "Test Publisher"
-const publishedDate = "2023-12-30"
-const rentPerDay = 10
-const totalCopies = 5
-const createdBy = "5f8b7d1f4f16db2e88c3b4a6"
 
 const request = {
     title: "Test Book",
