@@ -620,3 +620,153 @@
 [2023-12-15 00:50:08.319] [info] get all books, success
 [2023-12-15 00:50:15.699] [info] get all books, success
 [2023-12-15 00:50:18.862] [info] Reports sent!!,success
+[2023-12-15 01:36:45.648] [error] Book added failed
+[2023-12-15 01:37:38.258] [error] Book added failed
+[2023-12-15 01:38:39.303] [error] Book added failed
+[2023-12-15 11:01:01.496] [error] Book added failed
+[2023-12-15 11:02:54.269] [error] Book added failed
+[2023-12-15 11:04:17.908] [error] Book added failed
+[2023-12-15 11:05:43.926] [error] Book added failed
+[2023-12-15 11:07:27.018] [error] Book added failed
+[2023-12-15 11:07:44.117] [error] Book added failed
+[2023-12-15 11:07:47.393] [error] User Registered with email vivek@gmail.com
+[2023-12-15 11:07:48.644] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:07:49.130] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:07:49.587] [error] User login success rahul@gmail.com
+[2023-12-15 11:07:49.923] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:07:50.376] [error] User login success vivek@gmail.com
+[2023-12-15 11:08:30.926] [error] Book added failed
+[2023-12-15 11:08:40.933] [error] User registration Failed vivek@gmail.com
+[2023-12-15 11:08:42.664] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:08:43.385] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:08:44.352] [error] User login success rahul@gmail.com
+[2023-12-15 11:08:44.848] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:08:45.457] [error] User login success vivek@gmail.com
+[2023-12-15 11:09:22.193] [error] Book added failed
+[2023-12-15 11:09:28.526] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:09:29.574] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:09:30.189] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:09:30.796] [error] User login success rahul@gmail.com
+[2023-12-15 11:09:31.261] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:09:31.849] [error] User login success vivek@gmail.com
+[2023-12-15 11:14:52.571] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:14:52.792] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:14:53.748] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:14:54.320] [error] User login success rahul@gmail.com
+[2023-12-15 11:14:54.783] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:14:55.210] [error] User login success vivek@gmail.com
+[2023-12-15 11:16:36.233] [error] Book added failed
+[2023-12-15 11:16:38.597] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:16:38.924] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:16:39.530] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:16:39.974] [error] User login success rahul@gmail.com
+[2023-12-15 11:16:40.414] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:16:40.858] [error] User login success vivek@gmail.com
+[2023-12-15 11:17:02.466] [error] Book added failed
+[2023-12-15 11:17:04.519] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:17:04.841] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:17:05.480] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:17:05.979] [error] User login success rahul@gmail.com
+[2023-12-15 11:17:06.360] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:17:06.765] [error] User login success vivek@gmail.com
+[2023-12-15 11:22:18.090] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:22:18.414] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:22:18.997] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:22:19.419] [error] User login success rahul@gmail.com
+[2023-12-15 11:22:19.744] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:22:20.183] [error] User login success vivek@gmail.com
+[2023-12-15 11:22:41.880] [error] Book added failed
+[2023-12-15 11:22:44.227] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:22:44.552] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:22:45.146] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:22:45.590] [error] User login success rahul@gmail.com
+[2023-12-15 11:22:45.900] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:22:46.320] [error] User login success vivek@gmail.com
+[2023-12-15 11:24:28.151] [error] Book added failed
+[2023-12-15 11:24:30.726] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:24:31.078] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:24:32.534] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:24:32.967] [error] User login success rahul@gmail.com
+[2023-12-15 11:24:33.284] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:24:33.717] [error] User login success vivek@gmail.com
+[2023-12-15 11:27:47.134] [error] Book added failed
+[2023-12-15 11:27:49.872] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:27:50.192] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:27:50.795] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:27:51.245] [error] User login success rahul@gmail.com
+[2023-12-15 11:27:51.566] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:27:52.003] [error] User login success vivek@gmail.com
+[2023-12-15 11:30:48.510] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:30:48.877] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:30:49.557] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:30:50.027] [error] User login success rahul@gmail.com
+[2023-12-15 11:30:50.507] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:30:50.951] [error] User login success vivek@gmail.com
+[2023-12-15 11:31:27.756] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:31:28.082] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:31:28.703] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:31:29.163] [error] User login success rahul@gmail.com
+[2023-12-15 11:31:29.480] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:31:29.930] [error] User login success vivek@gmail.com
+[2023-12-15 11:31:53.989] [error] Book added failed
+[2023-12-15 11:31:56.278] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:31:56.665] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:31:57.289] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:31:57.803] [error] User login success rahul@gmail.com
+[2023-12-15 11:31:58.125] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:31:58.558] [error] User login success vivek@gmail.com
+[2023-12-15 11:32:53.421] [error] Book added failed
+[2023-12-15 11:32:56.018] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:32:56.354] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:32:56.978] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:32:57.388] [error] User login success rahul@gmail.com
+[2023-12-15 11:32:57.715] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:32:58.123] [error] User login success vivek@gmail.com
+[2023-12-15 11:33:49.028] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:33:49.354] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:33:49.962] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:33:50.398] [error] User login success rahul@gmail.com
+[2023-12-15 11:33:50.771] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:33:51.190] [error] User login success vivek@gmail.com
+[2023-12-15 11:34:01.583] [error] Book added failed
+[2023-12-15 11:34:03.763] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:34:04.080] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:34:04.955] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:34:05.490] [error] User login success rahul@gmail.com
+[2023-12-15 11:34:05.863] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:34:06.317] [error] User login success vivek@gmail.com
+[2023-12-15 11:34:18.946] [error] Book added failed
+[2023-12-15 11:34:21.293] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:34:21.629] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:34:22.250] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:34:22.686] [error] User login success rahul@gmail.com
+[2023-12-15 11:34:23.003] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:34:23.413] [error] User login success vivek@gmail.com
+[2023-12-15 11:35:55.830] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:35:55.843] [error] Book added successfully undefined
+[2023-12-15 11:35:56.154] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:35:56.938] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:35:57.429] [error] User login success rahul@gmail.com
+[2023-12-15 11:35:57.764] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:35:58.190] [error] User login success vivek@gmail.com
+[2023-12-15 11:36:36.097] [error] Book added successfully undefined
+[2023-12-15 11:36:36.101] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:36:36.433] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:36:37.045] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:36:37.494] [error] User login success rahul@gmail.com
+[2023-12-15 11:36:37.816] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:36:38.235] [error] User login success vivek@gmail.com
+[2023-12-15 11:36:55.608] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:36:55.881] [error] Book added successfully undefined
+[2023-12-15 11:36:56.067] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:36:56.697] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:36:57.104] [error] User login success rahul@gmail.com
+[2023-12-15 11:36:57.433] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:36:57.833] [error] User login success vivek@gmail.com
+[2023-12-15 11:37:11.995] [error] Book added successfully undefined
+[2023-12-15 11:37:11.999] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:37:12.360] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:37:12.955] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:37:13.390] [error] User login success rahul@gmail.com
+[2023-12-15 11:37:13.816] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:37:14.293] [error] User login success vivek@gmail.com
