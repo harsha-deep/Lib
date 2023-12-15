@@ -1,7 +1,9 @@
 process.env.NODE_ENV = 'test';
-process.env.MONGO_URL = "mongodb+srv://vivektangudu:viv@cluster0.czt49fi.mongodb.net/testdb"
+process.env.MONGO_URL = "mongodb://localhost:27017/testdb"
+process.env.PORT = 5003
 const jwt = require("jsonwebtoken");
 const chai = require('chai');
+const mongoose = require("mongoose");
 const chaiHttp = require('chai-http');
 const app = require('../server.js'); // Adjust the path based on your project structure
 const Book = require("../models/booksModel");
@@ -31,7 +33,7 @@ const request = {
 };
 
 
-
+let createdBookId;
 describe('Book API Tests', () => {
     let createdBookId;
 
@@ -44,53 +46,57 @@ describe('Book API Tests', () => {
         expect(res).to.have.status(200);
         expect(res.body.success).to.be.true;
         expect(res.body.message).to.equal('Book added successfully');
+        createdBookId = res.body.mongores._id;
+    });
 
-        // createdBookId = res.body.data._id;
+    it('Get a book by ID', async () => {
+        const res = await chai.request(app)
+            .get(`/api/books/get-book-by-id/${createdBookId}`)
+            .set('Authorization', `Bearer ${testToken}`);
+
+        expect(res).to.have.status(200);
+        expect(res.body.success).to.be.true;
+        expect(res.body.data).to.have.property('_id', createdBookId);
+    });
+    it('Update a book', async () => {
+        const updatedBookData = {
+            title: "Updated Book Title",
+        };
+
+        const res = await chai.request(app)
+            .put(`/api/books/update-book/${createdBookId}`)
+            .set('Authorization', `Bearer ${testToken}`)
+            .send(updatedBookData);
+
+        console.log(res)
+        expect(res).to.have.status(200);
+        expect(res.body.success).to.be.true;
+        expect(res.body.message).to.equal('Book updated successfully');
+    });
+
+    it('Get all books', async () => {
+        const res = await chai.request(app)
+            .get('/api/books/get-all-books')
+            .set('Authorization', `Bearer ${testToken}`);
+
+
+        expect(res).to.have.status(200);
+        expect(res.body.success).to.be.true;
+        expect(res.body.data).to.be.an('array');
+    });
+    it('Delete a book', async () => {
+        const res = await chai.request(app)
+            .delete(`/api/books/delete-book/${createdBookId}`)
+            .set('Authorization', `Bearer ${testToken}`);
+
+        expect(res).to.have.status(200);
+        expect(res.body.success).to.be.true;
+        expect(res.body.message).to.equal('Book deleted successfully');
     });
 });
 
-// Test for updating a book
-// it('Update a book', async () => {
-//     const updatedBookData = {
-//         title: "Updated Book Title",
-//         // Add other updated properties as needed
-//     };
 
-//     const res = await chai.request(app)
-//         .put(`/api/books/update-book/${createdBookId}`)
-//         .send(updatedBookData);
 
-//     expect(res).to.have.status(200);
-//     expect(res.body.success).to.be.true;
-//     expect(res.body.message).to.equal('Book updated successfully');
-// });
 
-// // Test for deleting a book
-// it('Delete a book', async () => {
-//     const res = await chai.request(app)
-//         .delete(`/api/books/delete-book/${createdBookId}`);
 
-//     expect(res).to.have.status(200);
-//     expect(res.body.success).to.be.true;
-//     expect(res.body.message).to.equal('Book deleted successfully');
-// });
 
-// Test for getting all books
-// it('Get all books', async () => {
-//     const res = await chai.request(app)
-//         .get('/api/books/get-all-books');
-
-//     expect(res).to.have.status(200);
-//     expect(res.body.success).to.be.true;
-//     expect(res.body.data).to.be.an('array');
-// });
-
-// // Test for getting a book by ID
-// it('Get a book by ID', async () => {
-//     const res = await chai.request(app)
-//         .get(`/api/books/get-book-by-id/${createdBookId}`);
-
-//     expect(res).to.have.status(200);
-//     expect(res.body.success).to.be.true;
-//     expect(res.body.data).to.have.property('_id', createdBookId);
-// });

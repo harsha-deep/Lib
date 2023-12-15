@@ -6,11 +6,10 @@ const logger = require("../logger/logger")
 // add a book
 router.post("/add-book", authMiddleware, async (req, res) => {
   try {
-    console.log(req);
     const newBook = new Book(req.body);
-    await newBook.save();
+    const mongores = await newBook.save();
     logger.info("Book added successfully " + req.body.book);
-    return res.send({ success: true, message: "Book added successfully" });
+    return res.send({ success: true, message: "Book added successfully", mongores });
   } catch (error) {
     logger.info("Book added failed");
     return res.send({ success: false, message: error.message });

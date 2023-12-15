@@ -1,6 +1,6 @@
 process.env.NODE_ENV = 'test';
-process.env.MONGO_URL = "mongodb+srv://vivektangudu:viv@cluster0.czt49fi.mongodb.net/testdb"
-process.env.PORT = 5004
+process.env.MONGO_URL = "mongodb://localhost:27017/testdb"
+process.env.PORT = 5007
 const chai = require('chai');
 const mongoose = require('mongoose');
 const chaiHttp = require('chai-http');
@@ -23,10 +23,11 @@ describe('Register API Tests', () => {
                 .post('/api/users/Register')
                 .send({ name, email, password, phone });
 
-            expect(res.body.success).to.be.false;
+            console.log(res)
+            expect(res.body.success).to.be.true;
 
         } catch (error) {
-            // console.error('Error during test:', error);
+            console.error('Error during test:', error);
             throw error;
         }
     });
@@ -109,7 +110,6 @@ describe('User API Tests', () => {
             const res = await chai.request(app)
                 .post('/api/users/login')
                 .send({ email, password });
-            console.log(res)
             expect(res._body.success).to.be.true;
 
         } catch (error) {

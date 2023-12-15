@@ -801,3 +801,330 @@
 [2023-12-15 11:47:00.298] [error] User login failed(User does not exist)rahul@gmail.com
 [2023-12-15 11:47:00.910] [error] User login failed(User does not exist)rahull@gmail.com
 [2023-12-15 11:47:01.340] [error] User login success vivek@gmail.com
+[2023-12-15 11:48:03.610] [error] Book added successfully undefined
+[2023-12-15 11:48:03.725] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:48:04.080] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:48:04.833] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:48:05.193] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:48:05.556] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:48:06.009] [error] User login success vivek@gmail.com
+[2023-12-15 11:51:42.737] [error] Book added successfully undefined
+[2023-12-15 11:51:46.409] [error] User registration Failed vivek@gmail.com
+[2023-12-15 11:51:51.403] [error] User registration Failed vivek@gmail.com
+[2023-12-15 11:51:56.424] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:52:08.328] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:52:08.495] [error] Book added successfully undefined
+[2023-12-15 11:52:08.657] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:52:10.126] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:52:10.447] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:52:10.773] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:52:11.277] [error] User login success vivek@gmail.com
+[2023-12-15 11:53:16.952] [error] Book added successfully undefined
+[2023-12-15 11:53:17.689] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:53:17.936] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:53:20.070] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:53:21.082] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:53:21.548] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:53:22.153] [error] User login success vivek@gmail.com
+[2023-12-15 11:54:00.483] [error] Book added successfully undefined
+[2023-12-15 11:54:00.676] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:54:01.036] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:54:01.627] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:54:02.097] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:54:02.493] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:54:02.940] [error] User login success vivek@gmail.com
+[2023-12-15 11:54:48.624] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:54:48.778] [error] Book added successfully undefined
+[2023-12-15 11:54:48.952] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:54:49.571] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:54:49.937] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:54:50.255] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:54:50.714] [error] User login success vivek@gmail.com
+[2023-12-15 11:55:46.423] [error] Book added successfully undefined
+[2023-12-15 11:55:52.136] [error] User registration Failed vivek@gmail.com
+[2023-12-15 11:55:59.278] [error] Book added successfully undefined
+[2023-12-15 11:55:59.369] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:55:59.694] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:56:00.301] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:56:00.627] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:56:00.956] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:56:01.364] [error] User login success vivek@gmail.com
+[2023-12-15 11:56:21.966] [error] Book added successfully undefined
+[2023-12-15 11:56:21.979] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:56:22.305] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:56:23.780] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:56:24.102] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:56:24.420] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:56:24.849] [error] User login success vivek@gmail.com
+[2023-12-15 11:57:18.763] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:57:18.768] [error] Book added successfully undefined
+[2023-12-15 11:57:19.079] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:57:19.674] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:57:19.986] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:57:20.305] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:57:20.729] [error] User login success vivek@gmail.com
+[2023-12-15 11:57:46.895] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:57:46.897] [error] Book added successfully undefined
+[2023-12-15 11:57:47.209] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:57:47.814] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:57:48.140] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:57:48.480] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:57:48.898] [error] User login success vivek@gmail.com
+[2023-12-15 11:58:21.664] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:58:21.797] [error] Book added successfully undefined
+[2023-12-15 11:58:22.001] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:58:22.984] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:58:23.334] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:58:23.714] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:58:24.187] [error] User login success vivek@gmail.com
+[2023-12-15 11:59:02.051] [error] Book added successfully undefined
+[2023-12-15 11:59:02.051] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:59:02.359] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:59:02.954] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:59:03.317] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:59:03.659] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:59:04.094] [error] User login success vivek@gmail.com
+[2023-12-15 11:59:20.493] [error] Book added successfully undefined
+[2023-12-15 11:59:20.495] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:59:20.513] [error] Book update failed
+[2023-12-15 11:59:20.886] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:59:22.413] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:59:22.754] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:59:23.096] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:59:23.549] [error] User login success vivek@gmail.com
+[2023-12-15 11:59:49.087] [error] Book added successfully undefined
+[2023-12-15 11:59:49.087] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:59:49.111] [error] Book update failed
+[2023-12-15 11:59:49.422] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 11:59:50.083] [error] User registration Failed viv@gmail.com
+[2023-12-15 11:59:50.421] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 11:59:50.794] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 11:59:51.239] [error] User login success vivek@gmail.com
+[2023-12-15 12:03:47.161] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:03:47.169] [error] Book added successfully undefined
+[2023-12-15 12:03:47.191] [error] Book update failed
+[2023-12-15 12:03:47.480] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:03:48.065] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:03:48.438] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:03:49.161] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:03:49.654] [error] User login success vivek@gmail.com
+[2023-12-15 12:04:32.452] [error] Book added successfully undefined
+[2023-12-15 12:04:32.456] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:04:32.783] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:04:34.265] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:04:34.634] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:04:35.209] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:04:35.661] [error] User login success vivek@gmail.com
+[2023-12-15 12:05:11.427] [error] Book added successfully undefined
+[2023-12-15 12:05:11.513] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:05:11.872] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:05:13.827] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:05:14.177] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:05:14.536] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:05:15.018] [error] User login success vivek@gmail.com
+[2023-12-15 12:05:53.750] [error] Book added successfully undefined
+[2023-12-15 12:05:53.957] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:05:54.279] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:05:54.903] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:05:55.236] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:05:55.560] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:05:56.033] [error] User login success vivek@gmail.com
+[2023-12-15 12:07:10.388] [error] Book added successfully undefined
+[2023-12-15 12:07:10.464] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:07:10.717] [error] get all books, success
+[2023-12-15 12:07:10.790] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:07:11.438] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:07:11.761] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:07:12.133] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:07:12.573] [error] User login success vivek@gmail.com
+[2023-12-15 12:07:27.094] [error] Book added successfully undefined
+[2023-12-15 12:07:27.098] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:07:27.556] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:07:27.563] [error] get all books, success
+[2023-12-15 12:07:33.133] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:07:33.284] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:07:33.535] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:07:34.036] [error] User login success vivek@gmail.com
+[2023-12-15 12:07:43.235] [error] Book added successfully undefined
+[2023-12-15 12:07:43.236] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:07:43.681] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:07:43.684] [error] get all books, success
+[2023-12-15 12:07:43.697] [error] get book by id, failed
+[2023-12-15 12:07:44.375] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:07:44.756] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:07:45.087] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:07:45.599] [error] User login success vivek@gmail.com
+[2023-12-15 12:10:10.902] [error] Book added successfully undefined
+[2023-12-15 12:10:10.931] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:10:11.280] [error] get all books, success
+[2023-12-15 12:10:11.303] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:10:11.912] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:10:12.284] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:10:12.597] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:10:13.029] [error] User login success vivek@gmail.com
+[2023-12-15 12:10:47.903] [error] Book added successfully undefined
+[2023-12-15 12:10:48.025] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:10:48.243] [error] get book by id, successTest Book
+[2023-12-15 12:10:48.397] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:10:48.571] [error] get all books, success
+[2023-12-15 12:10:50.000] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:10:50.336] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:10:50.655] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:10:51.079] [error] User login success vivek@gmail.com
+[2023-12-15 12:25:18.951] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:25:19.135] [error] Book added successfully undefined
+[2023-12-15 12:25:19.300] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:25:19.459] [error] get book by id, successTest Book
+[2023-12-15 12:25:19.789] [error] Book updated successfully undefined
+[2023-12-15 12:25:19.875] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:25:19.962] [error] get all books, success
+[2023-12-15 12:25:20.205] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:25:20.563] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:25:21.004] [error] User login success vivek@gmail.com
+[2023-12-15 12:26:37.119] [error] Book added successfully undefined
+[2023-12-15 12:26:37.143] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:26:37.447] [error] get book by id, successTest Book
+[2023-12-15 12:26:37.468] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:26:37.767] [error] Book updated successfully undefined
+[2023-12-15 12:26:37.942] [error] get all books, success
+[2023-12-15 12:26:38.055] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:26:38.371] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:26:38.687] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:26:39.088] [error] User login success vivek@gmail.com
+[2023-12-15 12:26:56.368] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:26:56.548] [error] Book added successfully undefined
+[2023-12-15 12:26:56.687] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:26:56.878] [error] get book by id, successTest Book
+[2023-12-15 12:26:57.210] [error] Book updated successfully undefined
+[2023-12-15 12:26:57.338] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:26:57.406] [error] get all books, success
+[2023-12-15 12:26:57.579] [error] Book delete success
+[2023-12-15 12:26:57.661] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:26:57.975] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:26:58.411] [error] User login success vivek@gmail.com
+[2023-12-15 12:27:20.586] [error] Book added successfully undefined
+[2023-12-15 12:27:20.599] [error] get book by id, successTest Book
+[2023-12-15 12:27:20.614] [error] Book updated successfully undefined
+[2023-12-15 12:27:20.632] [error] get all books, success
+[2023-12-15 12:27:20.638] [error] Book delete success
+[2023-12-15 12:27:22.478] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:27:22.805] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:27:23.410] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:27:23.730] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:27:24.049] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:27:24.481] [error] User login success vivek@gmail.com
+[2023-12-15 12:27:49.309] [error] Book added successfully undefined
+[2023-12-15 12:27:49.323] [error] get book by id, successTest Book
+[2023-12-15 12:27:49.331] [error] Book updated successfully undefined
+[2023-12-15 12:27:49.339] [error] get all books, success
+[2023-12-15 12:27:49.344] [error] Book delete success
+[2023-12-15 12:28:18.018] [error] Book added successfully undefined
+[2023-12-15 12:28:18.063] [error] get book by id, successTest Book
+[2023-12-15 12:28:18.074] [error] Book updated successfully undefined
+[2023-12-15 12:28:18.092] [error] get all books, success
+[2023-12-15 12:28:18.098] [error] Book delete success
+[2023-12-15 12:28:18.155] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:28:18.193] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:28:18.300] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:28:18.308] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:28:18.314] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:28:18.407] [error] User login success vivek@gmail.com
+[2023-12-15 12:29:11.941] [error] Book added successfully undefined
+[2023-12-15 12:29:11.955] [error] get book by id, successTest Book
+[2023-12-15 12:29:11.962] [error] Book updated successfully undefined
+[2023-12-15 12:29:11.969] [error] get all books, success
+[2023-12-15 12:29:11.974] [error] Book delete success
+[2023-12-15 12:29:11.992] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:29:12.000] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:29:12.081] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:29:12.087] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:29:12.093] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:29:12.099] [error] User login failed(User does not exist)vivek@gmail.com
+[2023-12-15 12:30:45.121] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:30:45.129] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:30:45.206] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:30:45.213] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:30:45.217] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:30:45.297] [error] User login success vivek@gmail.com
+[2023-12-15 12:30:45.914] [error] Book added successfully undefined
+[2023-12-15 12:30:45.922] [error] get book by id, successTest Book
+[2023-12-15 12:30:45.929] [error] Book updated successfully undefined
+[2023-12-15 12:30:45.938] [error] get all books, success
+[2023-12-15 12:30:45.942] [error] Book delete success
+[2023-12-15 12:31:24.906] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:31:24.913] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:31:24.989] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:31:24.996] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:31:25.002] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:31:25.078] [error] User login success vivek@gmail.com
+[2023-12-15 12:31:25.788] [error] Book added successfully undefined
+[2023-12-15 12:31:25.795] [error] get book by id, successTest Book
+[2023-12-15 12:31:25.803] [error] Book updated successfully undefined
+[2023-12-15 12:31:25.807] [error] get all books, success
+[2023-12-15 12:31:25.812] [error] Book delete success
+[2023-12-15 12:31:50.978] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:31:50.989] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:31:51.065] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:31:51.072] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:31:51.076] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:31:51.152] [error] User login success vivek@gmail.com
+[2023-12-15 12:31:51.809] [error] Book added successfully undefined
+[2023-12-15 12:31:51.817] [error] get book by id, successTest Book
+[2023-12-15 12:31:51.824] [error] Book updated successfully undefined
+[2023-12-15 12:31:51.830] [error] get all books, success
+[2023-12-15 12:31:51.835] [error] Book delete success
+[2023-12-15 12:32:59.871] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:32:59.882] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:32:59.957] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:32:59.965] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:32:59.969] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:33:00.044] [error] User login success vivek@gmail.com
+[2023-12-15 12:33:03.327] [error] Book added successfully undefined
+[2023-12-15 12:33:03.656] [error] get book by id, successTest Book
+[2023-12-15 12:33:03.995] [error] Book updated successfully undefined
+[2023-12-15 12:33:04.291] [error] get all books, success
+[2023-12-15 12:33:04.465] [error] Book delete success
+[2023-12-15 12:33:30.073] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:33:30.085] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:33:30.171] [error] User Registered with email viv@gmail.com
+[2023-12-15 12:33:30.182] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:33:30.189] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:33:30.194] [error] User login failed(User does not exist)vivek@gmail.com
+[2023-12-15 12:33:32.092] [error] Book added successfully undefined
+[2023-12-15 12:33:32.420] [error] get book by id, successTest Book
+[2023-12-15 12:33:32.744] [error] Book updated successfully undefined
+[2023-12-15 12:33:33.051] [error] get all books, success
+[2023-12-15 12:33:33.218] [error] Book delete success
+[2023-12-15 12:34:36.515] [error] Book added successfully undefined
+[2023-12-15 12:34:36.529] [error] get book by id, successTest Book
+[2023-12-15 12:34:36.536] [error] Book updated successfully undefined
+[2023-12-15 12:34:36.544] [error] get all books, success
+[2023-12-15 12:34:36.548] [error] Book delete success
+[2023-12-15 12:34:36.569] [error] User registration Failed vivek@gmail.com
+[2023-12-15 12:34:36.662] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:34:36.740] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:34:36.747] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:34:36.751] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:34:36.827] [error] User login success vivek@gmail.com
+[2023-12-15 12:35:50.886] [error] Book added successfully undefined
+[2023-12-15 12:35:50.899] [error] get book by id, successTest Book
+[2023-12-15 12:35:50.906] [error] Book updated successfully undefined
+[2023-12-15 12:35:50.914] [error] get all books, success
+[2023-12-15 12:35:50.919] [error] Book delete success
+[2023-12-15 12:35:50.931] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:35:50.943] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:35:51.024] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:35:51.034] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:35:51.040] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:35:51.046] [error] User login failed(User does not exist)vivek@gmail.com
+[2023-12-15 12:36:09.428] [error] User Registered with email vivek@gmail.com
+[2023-12-15 12:36:09.438] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 12:36:09.514] [error] User registration Failed viv@gmail.com
+[2023-12-15 12:36:09.522] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 12:36:09.527] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 12:36:09.604] [error] User login success vivek@gmail.com
+[2023-12-15 12:36:10.244] [error] Book added successfully undefined
+[2023-12-15 12:36:10.251] [error] get book by id, successTest Book
+[2023-12-15 12:36:10.258] [error] Book updated successfully undefined
+[2023-12-15 12:36:10.265] [error] get all books, success
+[2023-12-15 12:36:10.269] [error] Book delete success

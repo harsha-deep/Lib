@@ -1,6 +1,6 @@
 process.env.NODE_ENV = 'test';
 process.env.MONGO_URL = 'mongodb://localhost:27017/testdb'
-process.env.MONGO_URL = 5010
+process.env.PORT = 5010
 const mongoose = require("mongoose");
 const UserModel = require("../models/usersModel"); // Update the path accordingly
 
