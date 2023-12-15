@@ -36,7 +36,6 @@ export const UpdateBook = async (payload) => {
 
 // delete book
 export const DeleteBook = async (id) => {
-  console.log(id)
   try {
     const response = await axiosInstance.delete(baseUrl + `/api/books/delete-book/${id}`);
     return response.data;

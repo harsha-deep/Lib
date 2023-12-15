@@ -137,14 +137,14 @@ function Issues({ open = false, setOpen, selectedBook, reloadBooks }) {
         return (
           !record.returnedDate && (
             <div className="flex gap-5">
-              <Button
+              {/* <Button
                 title="Renew"
                 onClick={() => {
                   setSelectedIssue(record);
                   setShowIssueForm(true);
                 }}
                 variant="outlined"
-              />
+              /> */}
               <Button
                 title="Return Now"
                 onClick={() => onReturnHandler(record)}
@@ -184,7 +184,7 @@ function Issues({ open = false, setOpen, selectedBook, reloadBooks }) {
             selectedIssue={selectedIssue}
             open={showIssueForm}
             setOpen={setShowIssueForm}
-            setSelectedBook={() => {}}
+            setSelectedBook={() => { }}
             getData={() => {
               getIssues();
               reloadBooks();

@@ -1128,3 +1128,170 @@
 [2023-12-15 12:36:10.258] [error] Book updated successfully undefined
 [2023-12-15 12:36:10.265] [error] get all books, success
 [2023-12-15 12:36:10.269] [error] Book delete success
+[2023-12-15 13:27:27.688] [error] User Registered with email vivek@gmail.com
+[2023-12-15 13:27:27.699] [error] User registration failed(email exists) vivek@gmail.com
+[2023-12-15 13:27:27.775] [error] User registration Failed viv@gmail.com
+[2023-12-15 13:27:27.782] [error] User login failed(User does not exist)rahul@gmail.com
+[2023-12-15 13:27:27.786] [error] User login failed(User does not exist)rahull@gmail.com
+[2023-12-15 13:27:27.861] [error] User login success vivek@gmail.com
+[2023-12-15 13:27:28.500] [error] Book added successfully undefined
+[2023-12-15 13:27:28.507] [error] get book by id, successTest Book
+[2023-12-15 13:27:28.515] [error] Book updated successfully undefined
+[2023-12-15 13:27:28.521] [error] get all books, success
+[2023-12-15 13:27:28.525] [error] Book delete success
+[2023-12-15 14:00:21.507] [info] get all books, success
+[2023-12-15 14:00:55.850] [info] get all books, success
+[2023-12-15 14:01:07.970] [info] User login failed(impor Invalid password) vivektangudu@gmail.com
+[2023-12-15 14:01:11.753] [info] User login success vivektangudu@gmail.com
+[2023-12-15 14:01:12.293] [info] get all books, success
+[2023-12-15 14:01:20.891] [info] Get all issues, success
+[2023-12-15 14:01:25.149] [info] get all books, success
+[2023-12-15 14:01:26.849] [info] Get all issues, success
+[2023-12-15 14:01:36.696] [info] Get all issues, success
+[2023-12-15 14:01:37.285] [info] Get all issues, success
+[2023-12-15 14:01:37.667] [info] Get all issues, success
+[2023-12-15 14:01:38.447] [info] Get all issues, success
+[2023-12-15 14:01:43.895] [info] Get all issues, success
+[2023-12-15 14:02:49.017] [info] Get all issues, success
+[2023-12-15 14:03:15.497] [info] Get all issues, success
+[2023-12-15 14:03:18.936] [info] Get all issues, success
+[2023-12-15 14:03:24.541] [info] Get id using email + User not found
+[2023-12-15 14:03:30.809] [info] Book returned, success 65799f8ff99046b956ab5001
+[2023-12-15 14:03:31.110] [info] get all books, success
+[2023-12-15 14:03:31.188] [info] Get all issues, success
+[2023-12-15 14:03:32.902] [info] Get id using email + User not found
+[2023-12-15 14:04:09.843] [info] Get id using email + User not found
+[2023-12-15 14:05:25.103] [info] Get id using email rahul@gmail.com
+[2023-12-15 14:05:26.949] [info] Book issued successfully 657c06af0e290acdec50074a
+[2023-12-15 14:05:27.242] [info] get all books, success
+[2023-12-15 14:05:29.975] [info] Get all issues, success
+[2023-12-15 14:05:31.354] [info] Get id using email + User not found
+[2023-12-15 14:06:20.807] [info] Get id using email + User not found
+[2023-12-15 14:06:36.803] [info] Get id using email + User not found
+[2023-12-15 14:09:08.803] [info] Get id using email + User not found
+[2023-12-15 14:15:50.914] [info] Get id using email + User not found
+[2023-12-15 14:19:04.519] [info] Get id using email + User not found
+[2023-12-15 14:21:13.999] [info] Get id using email + User not found
+[2023-12-15 14:21:59.814] [info] Get id using email + User not found
+[2023-12-15 14:22:04.384] [info] get all books, success
+[2023-12-15 14:22:05.777] [info] Get all issues, success
+[2023-12-15 14:22:06.912] [info] Get id using email + User not found
+[2023-12-15 14:24:25.908] [info] Get id using email + User not found
+[2023-12-15 14:26:32.863] [info] Get id using email + User not foundundefined
+[2023-12-15 14:27:36.866] [info] Get id using email + User not foundundefined
+[2023-12-15 14:30:50.936] [info] Get id using email + User not found
+[2023-12-15 14:31:28.031] [info] Get id using email + User not found
+[2023-12-15 14:35:01.685] [info] Get id using email + User not found
+[2023-12-15 14:35:17.614] [info] Get id using email + User not found
+[2023-12-15 14:35:38.934] [info] Get id using email + User not found
+[2023-12-15 14:36:08.862] [info] Get id using email + User not found
+[2023-12-15 14:36:13.504] [info] Get id using email + User not found
+[2023-12-15 14:36:39.808] [info] Get id using email + User not found
+[2023-12-15 14:36:47.282] [info] Get id using email + User not found
+[2023-12-15 14:37:12.327] [info] Get all issues, success
+[2023-12-15 14:37:13.966] [info] Get id using email + User not found
+[2023-12-15 14:37:27.811] [info] Get id using email + User not found
+[2023-12-15 14:37:48.830] [info] Get id using email + User not found
+[2023-12-15 14:37:53.524] [info] Get id using email + User not found
+[2023-12-15 14:38:06.588] [info] get all books, success
+[2023-12-15 14:38:10.685] [info] Get all issues, success
+[2023-12-15 14:38:12.066] [info] Get id using email + User not found
+[2023-12-15 14:38:30.800] [info] Get id using email + User not found
+[2023-12-15 14:38:55.850] [info] Get id using email + User not found
+[2023-12-15 14:39:28.807] [info] Get id using email + User not found
+[2023-12-15 14:40:03.805] [info] Get id using email + User not found
+[2023-12-15 14:40:30.450] [info] get all books, success
+[2023-12-15 14:40:33.104] [info] Get all issues, success
+[2023-12-15 14:40:49.703] [info] get all books, success
+[2023-12-15 14:40:51.530] [info] Get all issues, success
+[2023-12-15 14:41:04.611] [info] Get id using email + User not found
+[2023-12-15 14:41:25.829] [info] Get id using email + User not found
+[2023-12-15 14:41:33.425] [info] get all books, success
+[2023-12-15 14:41:34.710] [info] Get all issues, success
+[2023-12-15 14:41:35.578] [info] Get id using email + User not found
+[2023-12-15 14:41:49.784] [info] Get id using email + User not found
+[2023-12-15 14:42:23.931] [info] Get id using email + User not found
+[2023-12-15 14:42:47.923] [info] Get id using email + User not found
+[2023-12-15 14:42:52.823] [info] Get id using email + User not found
+[2023-12-15 14:42:57.436] [info] Get all issues, success
+[2023-12-15 14:42:58.257] [info] Get id using email + User not found
+[2023-12-15 14:43:32.376] [info] Get id using email + User not found
+[2023-12-15 14:43:36.647] [info] get all books, success
+[2023-12-15 14:43:38.418] [info] Get all issues, success
+[2023-12-15 14:43:39.852] [info] Get id using email + User not found
+[2023-12-15 14:44:22.265] [info] get all books, success
+[2023-12-15 14:44:24.026] [info] Get all issues, success
+[2023-12-15 14:46:11.489] [info] get all books, success
+[2023-12-15 14:46:13.324] [info] Get all issues, success
+[2023-12-15 14:46:25.456] [info] Get id using email + User not found
+[2023-12-15 14:46:35.794] [info] get all books, success
+[2023-12-15 14:46:37.537] [info] Get all issues, success
+[2023-12-15 14:46:38.767] [info] Get id using email + User not found
+[2023-12-15 14:47:58.291] [info] Get id using email + User not found
+[2023-12-15 14:48:50.487] [info] get all books, success
+[2023-12-15 14:48:51.971] [info] Get all issues, success
+[2023-12-15 14:48:53.082] [info] Get id using email + User not found
+[2023-12-15 14:49:20.396] [info] Get id using email + User not found
+[2023-12-15 14:49:32.791] [info] Get id using email + User not found
+[2023-12-15 14:49:50.849] [info] get all books, success
+[2023-12-15 14:49:52.446] [info] Get all issues, success
+[2023-12-15 14:49:53.526] [info] Get id using email + User not found
+[2023-12-15 14:50:00.236] [info] Get id using email + User not found
+[2023-12-15 14:50:43.153] [info] get all books, success
+[2023-12-15 14:50:44.632] [info] Get all issues, success
+[2023-12-15 14:50:45.508] [info] Get id using email + User not found
+[2023-12-15 14:51:01.896] [info] get all books, success
+[2023-12-15 14:51:03.257] [info] Get all issues, success
+[2023-12-15 14:51:04.338] [info] Get id using email + User not found
+[2023-12-15 14:53:36.752] [info] Get id using email + User not found
+[2023-12-15 14:53:41.378] [info] Get all issues, success
+[2023-12-15 14:53:44.564] [info] get all books, success
+[2023-12-15 14:53:46.061] [info] Get all issues, success
+[2023-12-15 14:53:46.965] [info] Get id using email + User not found
+[2023-12-15 14:55:05.766] [info] get all books, success
+[2023-12-15 14:55:16.378] [info] Get all issues, success
+[2023-12-15 14:55:17.234] [info] Get id using email + User not found
+[2023-12-15 14:57:41.217] [info] Get all issues, success
+[2023-12-15 14:57:42.300] [info] Get id using email + User not found
+[2023-12-15 14:58:48.814] [info] get all books, success
+[2023-12-15 14:58:50.083] [info] Get all issues, success
+[2023-12-15 14:58:50.995] [info] Get id using email + User not found
+[2023-12-15 14:59:24.893] [info] Get id using email + User not found
+[2023-12-15 15:00:00.754] [info] get all books, success
+[2023-12-15 15:00:02.269] [info] Get all issues, success
+[2023-12-15 15:00:03.046] [info] Get id using email + User not found
+[2023-12-15 15:00:34.241] [info] get all books, success
+[2023-12-15 15:00:35.364] [info] Get all issues, success
+[2023-12-15 15:00:43.686] [info] get all books, success
+[2023-12-15 15:00:45.066] [info] Get all issues, success
+[2023-12-15 15:00:46.032] [info] Get id using email + User not found
+[2023-12-15 15:01:03.012] [info] get all books, success
+[2023-12-15 15:01:04.342] [info] Get all issues, success
+[2023-12-15 15:01:05.331] [info] Get id using email + User not found
+[2023-12-15 15:01:21.612] [info] get all books, success
+[2023-12-15 15:01:22.970] [info] Get all issues, success
+[2023-12-15 15:01:24.082] [info] Get id using email + User not found
+[2023-12-15 15:01:44.921] [info] get all books, success
+[2023-12-15 15:01:46.238] [info] Get all issues, success
+[2023-12-15 15:01:47.094] [info] Get id using email + User not found
+[2023-12-15 15:01:55.147] [info] Get id using email + User not found
+[2023-12-15 15:01:57.294] [info] Get id using email + User not found
+[2023-12-15 15:02:22.177] [info] Get id using email + User not found
+[2023-12-15 15:02:44.855] [info] get all books, success
+[2023-12-15 15:02:46.124] [info] Get all issues, success
+[2023-12-15 15:02:47.083] [info] Get id using email + User not found
+[2023-12-15 15:03:15.563] [info] Get id using email + User not found
+[2023-12-15 15:03:20.215] [info] get all books, success
+[2023-12-15 15:03:21.777] [info] Get all issues, success
+[2023-12-15 15:03:22.745] [info] Get id using email + User not found
+[2023-12-15 15:03:31.749] [info] Get id using email + User not found
+[2023-12-15 15:03:36.658] [info] get all books, success
+[2023-12-15 15:03:37.828] [info] Get all issues, success
+[2023-12-15 15:03:39.019] [info] Get id using email + User not found
+[2023-12-15 15:04:36.206] [info] get all books, success
+[2023-12-15 15:04:37.676] [info] Get all issues, success
+[2023-12-15 15:04:38.623] [info] Get id using email + User not found
+[2023-12-15 15:07:30.728] [info] Get id using email + User not found
+[2023-12-15 15:07:35.827] [info] Get id using email + User not found
+[2023-12-15 15:07:41.708] [info] Get id using email + User not found
+[2023-12-15 15:09:47.213] [info] Get all issues, success

@@ -3,9 +3,7 @@ const baseUrl = process.env.REACT_APP_BASE_URL;
 // register a user
 export const RegisterUser = async (payload) => {
   try {
-    console.log(payload)
     const response = await axiosInstance.post(baseUrl + "/api/users/register", payload);
-    console.log(response)
     return response.data;
   } catch (error) {
     throw error;
@@ -15,9 +13,7 @@ export const RegisterUser = async (payload) => {
 // login a user
 export const LoginUser = async (payload) => {
   try {
-    console.log(payload)
     const response = await axiosInstance.post(baseUrl + "/api/users/login", payload);
-    console.log(response)
     return response.data;
   } catch (error) {
     throw error;
@@ -47,11 +43,11 @@ export const GetAllUsers = async (role) => {
 
 
 // get user by id
-
 export const GetUserById = async (id) => {
 
   try {
     const response = await axiosInstance.get(baseUrl + `/api/users/get-user-by-id/${id}`);
+    console.log(response.data)
     return response.data;
   } catch (error) {
     throw error;

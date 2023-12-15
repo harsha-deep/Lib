@@ -21,6 +21,7 @@ function Users({ role }) {
     try {
       dispatch(ShowLoading());
       const response = await GetAllUsers(role);
+      console.log(response)
       dispatch(HideLoading());
       if (response.success) {
         setUsers(response.data);

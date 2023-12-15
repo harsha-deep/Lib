@@ -1,13 +1,16 @@
 import { Modal, Form, message } from "antd";
 import React, { useEffect, useState } from "react";
 import Button from "../../../components/Button";
+
 import moment from "moment";
 import { useDispatch, useSelector } from "react-redux";
+import { axiosInstance } from "../../../apicalls/axiosInstance";
 
 import { HideLoading, ShowLoading } from "../../../redux/loadersSlice";
 import { EditIssue, IssueBook, get_id_by_email } from "../../../apicalls/issues";
+import { GetUserById } from "../../../apicalls/users";
 import logger from "../../../logger/logger";
-
+const baseUrl = process.env.REACT_APP_BASE_URL;
 function IssueForm({
   open = false,
   setOpen,
@@ -34,8 +37,8 @@ function IssueForm({
     try {
       dispatch(ShowLoading());
 
-
       const response = await get_id_by_email({ email: patronEmail });
+
       if (response.success) {
         if (response.userId && response.role === "patron") {
           setPatronData(response);
@@ -49,6 +52,7 @@ function IssueForm({
       } else {
         setValidated(false);
         setErrorMessage(response.message);
+
       }
 
       dispatch(HideLoading());
@@ -111,10 +115,22 @@ function IssueForm({
       message.error(error.message);
     }
   };
+  const GetUserBy_Id = async (id) => {
 
+    try {
+      const response = await axiosInstance.get(baseUrl + `/api/users/get-user-by-id/${id}`);
+      console.log(response.data.data.email)
+      setPatronEmail(response.data.data.email)
+      return response.data;
+    } catch (error) {
+      throw error;
+    }
+  }
 
   useEffect(() => {
     if (type === "edit") {
+
+      GetUserBy_Id(selectedIssue.user._id);
       validate();
     }
   }, [open]);
@@ -138,13 +154,14 @@ function IssueForm({
             Student Email
           </label>
           <input
-            id="patronEmail"
+            id="Sudent Email"
             type="email"
             value={patronEmail}
-            onChange={(e) => setPatronEmail(e.target.value)}
+
             placeholder="Patron Email"
             disabled={type === "edit"}
             className="input-field"
+            onChange={(e) => setPatronEmail(e.target.value)}
           />
         </div>
 

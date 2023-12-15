@@ -133,10 +133,8 @@ router.get("/get-all-users/:role", authMiddleware, async (req, res) => {
 
 // get user by id
 router.get("/get-user-by-id/:id", authMiddleware, async (req, res) => {
-  console.log(req)
   try {
     const user = await User.findById(req.params.id);
-    console.log(req.params.id);
     if (!user) {
       return res.send({
         success: false,

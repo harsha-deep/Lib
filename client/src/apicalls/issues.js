@@ -21,7 +21,6 @@ export const get_id_by_email = async (payload) => {
 }
 // get issues
 export const GetIssues = async (payload) => {
-  console.log(payload)
   try {
     const response = await axiosInstance.post(baseUrl + "/api/issues/get-issues", payload);
     return response.data;
